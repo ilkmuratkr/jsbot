@@ -12,6 +12,7 @@ CHUNK_SIZE = 5000  # İşlenecek domain grubu büyüklüğü
 # Hedef dosya yolları
 JS_PATHS = [
     "/wp-includes/js/jquery/jquery.js",
+    "/wp-includes/js/wp-embed.min.js",
     "/wp-includes/js/jquery/jquery.min.js"
 ]
 
